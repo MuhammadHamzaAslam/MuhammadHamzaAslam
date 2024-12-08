@@ -36,7 +36,10 @@
 <h2 align="left">Connect with me:</h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammad-hassan-raza-aab5402b7/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/muhammad-hamza-7417992b6/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
+<p align="left">
+<a href="https://www.instagram.com/itx_hamza__dev/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
