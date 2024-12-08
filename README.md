@@ -37,10 +37,10 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-hamza-7417992b6/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-</p>
-<p align="left">
 <a href="https://www.instagram.com/itx_hamza__dev/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://www.facebook.com/MuhammadHamzaAslam19" target="blank"><img src="https://skillicons.dev/icons?i=facebook" /></a>
 </p>
+
 
 <h2 align="left">Languages and Tools:</h2>
 
