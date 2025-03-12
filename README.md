@@ -63,14 +63,4 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadHamzaAslam&show_icons=true&locale=en&layout=compact&theme=bg_color=bg_color=FFFFF&title_color=007cff&icon_color=000" alt="MuhammadHamza" height="192px"/>
 </p>
 
-<p>
 
-[![Muhammad Hassan Raza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHamzaAslam&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</p>
-
-<h3 align="center">
-  
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
-</h3>
