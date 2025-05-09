@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **Back End Development**
 
-- 👨‍💻 My Portfolio Website [My Portfolio Website](https://github.com/MuhammadHamzaAslamAslam/Personal-Portfolio)
+- 👨‍💻 My Portfolio Website [My Portfolio Website](https://m-hamza.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, Firebase, React JS, Next JS React Native MongoDB**
 
@@ -37,7 +37,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-hamza-7417992b6/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://www.instagram.com/itx_hamza__dev/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://www.instagram.com/muhammad_hamza_19/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 
