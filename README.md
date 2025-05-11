@@ -56,6 +56,11 @@
 <h2 align="left">Github Stats:</h2>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHamzaAslam"/></p>
+<h3 align="center">
+ 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadhamzaaslam&theme=github)
+ 
+</h3>
 
 ## 🌟 Contribution Heatmap
 
