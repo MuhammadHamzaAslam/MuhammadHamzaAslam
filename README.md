@@ -62,6 +62,10 @@
  
 </h3>
 
+<br />
+<p align="center"><a href="https://gitroll.io/profile/uUCLAeld84lQ6D2WzJUerNK9ryjv1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uUCLAeld84lQ6D2WzJUerNK9ryjv1" alt="GitRoll Profile Badge"/></a></p>
+<br />
+
 ## 🌟 Contribution Heatmap
 
 <p align="center">
