@@ -66,14 +66,6 @@
 <p align="center"><a href="https://gitroll.io/profile/uUCLAeld84lQ6D2WzJUerNK9ryjv1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uUCLAeld84lQ6D2WzJUerNK9ryjv1" alt="GitRoll Profile Badge"/></a></p>
 <br />
 
-## 🌟 Contribution Heatmap
-
-<p align="center">
-  <a href="https://github.com/MuhammadHamzaAslam">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHamzaAslam&area=true&bg_color=ffffff&color=007cff&line=007cff&point=24292e&hide_border=true" alt="GitHub Contribution Graph" />
-  </a>
-</p>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MuhammadHamzaAslam&show_icons=true&locale=en&theme=bg_color=bg_color=FFFFF&title_color=007cff&icon_color=000" alt="MuhammadHamza" />
 </p>
 
